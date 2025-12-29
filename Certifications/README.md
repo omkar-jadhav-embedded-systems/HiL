@@ -6,7 +6,8 @@
 | [HiL Test Automation](https://github.com/omkar-jadhav-embedded-systems/HiL/blob/main/Certifications/Typhoon_Test_Automation.pdf) | Typhoon HIL, Inc. | 2024 | BESS/PCS FRT |
 | [ISTQB Foundation (CTFL)](https://github.com/omkar-jadhav-embedded-systems/HiL/blob/main/Certifications/ISTQB.pdf) | edForce | 2023 | ASPICE SWE.5/6 |
 | [Machine Learning](https://github.com/omkar-jadhav-embedded-systems/HiL/blob/main/Certifications/Machine_learning.pdf) | Coursera | 2023 | RAG Automation |
-| [Professional Certificates](Other_3_PDFs) | Various | 2023-24 | HiL/Embedded |
+| [HiL Fundamentals](https://github.com/omkar-jadhav-embedded-systems/HiL/blob/main/Certifications/HIL-Fundamentals.pdf) | Typhoon HIL, Inc. | 2023-24 | HiL/Embedded |
+| [HiL Fundamentals](https://github.com/omkar-jadhav-embedded-systems/HiL/blob/main/Certifications/HIL-Fundamentals.pdf) | Typhoon HIL, Inc. | 2023-24 | HiL/Embedded |
 
 ## 📊 Impact Metrics [file:141]
 - **30% regression reduction** via PyTest HiL framework
